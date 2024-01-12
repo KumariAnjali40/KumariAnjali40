@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waghchaurepooja&label=Profile%20views&color=0e75b6&style=flat" alt="waghchaurepooja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waghchaurepooja" alt="waghchaurepooja" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js Web developer.**
 
 - 📫 How to reach me **www.linkedin.com/in/kumarianjali9051**
