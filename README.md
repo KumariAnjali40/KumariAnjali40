@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Kumari Anjali</h1>
 <h3 align="center">I am passionate about to Learn technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?KumariAnjali40=waghchaurepooja&label=Profile%20views&color=0e75b6&style=flat" alt="waghchaurepooja" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KumariAnjali40&label=Profile%20views&color=0e75b6&style=flat" alt="KumariAnjali40" /> </p>
 
 - 🌱 I’m currently learning **Node.js Web developer.**
 
