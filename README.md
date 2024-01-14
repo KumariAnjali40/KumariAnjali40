@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KumariAnjali40&label=Profile%20views&color=0e75b6&style=flat" alt="KumariAnjali40" /> </p>
 
-- 🌱 I’m currently learning **Node.js Web developer.**
+- 🌱 I’m currently learning **Node.js.**
 
 - 📫 How to reach me **www.linkedin.com/in/kumarianjali9051**
 
