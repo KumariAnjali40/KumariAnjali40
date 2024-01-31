@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="margin-bottom: 20px;">
+       <p align="left" style="margin-bottom: 20px;">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
   </a>
@@ -45,6 +45,9 @@
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/>
@@ -74,6 +77,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
   </a>
 </p>
+
+  
+  
+ 
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarianjali40" alt="kumarianjali40" /></a> </p>
 
