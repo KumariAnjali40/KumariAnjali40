@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarianjali40&label=Profile%20views&color=0e75b6&style=flat" alt="kumarianjali40" /> </p>
 
 
-- 🔭 I’m currently Learning **Node.js, AWS, Docker**
+- 🔭 I’m currently Learning **Node.js, AWS, Docker, CICD Pipeline**
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 Interested in **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KumariAnjali40/KumariAnjali40.github.io](https://github.com/KumariAnjali40/KumariAnjali40.github.io)
 
