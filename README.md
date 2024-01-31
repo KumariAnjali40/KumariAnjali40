@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@kumari-anjali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@kumari-anjali" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/kumarianjali9051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumari anjali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kumarianjali9051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumarianjali9051" height="30" width="40" /></a>
 <a href="https://instagram.com/anjupandey_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjupandey_47" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kumarianjali40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumarianjali40" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@anjalipandey9051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anjalipandey9051" height="30" width="40" /></a>
