@@ -16,7 +16,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BqMiZdr2vo1qDzug-ZcfSYgeZb_dx4kG/view?usp=drive_link](https://drive.google.com/file/d/1BqMiZdr2vo1qDzug-ZcfSYgeZb_dx4kG/view?usp=drive_link)
 
-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarianjali40" alt="kumarianjali40" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -76,7 +75,7 @@
   </a>
 </p>
 
-
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarianjali40" alt="kumarianjali40" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarianjali40&show_icons=true&locale=en&layout=compact" alt="kumarianjali40" /></p>
 
