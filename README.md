@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kumari Anjali</h1>
-<h3 align="center">Aspiring Backend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarianjali40&label=Profile%20views&color=0e75b6&style=flat" alt="kumarianjali40" /> </p>
+
 
 - 🔭 I’m currently Learning **Node.js, AWS, Docker**
 
@@ -9,14 +10,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KumariAnjali40/KumariAnjali40.github.io](https://github.com/KumariAnjali40/KumariAnjali40.github.io)
 
-- 💬 Ask me about **Node.js,DSA, MongoDb,Advance Node.js**
+- 💬 Ask me about **Node.js,DSA, MongoDb,MySql,JavaScript,GitHub**
 
 - 📫 How to reach me **anjalipandey9051@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/kumar/Downloads/Kumari%20Anjali-Kumari%20Anjali-Node%20JS%20Developer%20(4)%20(1).pdf](file:///C:/Users/kumar/Downloads/Kumari%20Anjali-Kumari%20Anjali-Node%20JS%20Developer%20(4)%20(1).pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BqMiZdr2vo1qDzug-ZcfSYgeZb_dx4kG/view?usp=drive_link](https://drive.google.com/file/d/1BqMiZdr2vo1qDzug-ZcfSYgeZb_dx4kG/view?usp=drive_link)
 
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarianjali40" alt="kumarianjali40" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
