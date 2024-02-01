@@ -78,13 +78,16 @@
 </p>
 
   
-  
- 
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarianjali40" alt="kumarianjali40" /></a> </p>
+<div style=" display:flex;justify-content:space-evenly; flex-wrap:wrap; gap:30px; align-item:center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarianjali40&show_icons=true&locale=en&layout=compact" alt="kumarianjali40" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=KumariAnjali40&theme=onedark&column=3&margin-w=15&margin-h=15">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarianjali40&show_icons=true&locale=en" alt="kumarianjali40" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarianjali40&" alt="kumarianjali40" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KumariAnjali40&theme=tokyonight&count_private=true)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumariAnjali40&layout=compact&theme=tokyonight)
+
+ ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=KumariAnjali40&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+
+</div>
