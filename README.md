@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AWS three tier Achitecture and CICD Pipeline**
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, Terraform**
+- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, AWS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/KumariAnjali40/KumariAnjali40.github.io)
 
