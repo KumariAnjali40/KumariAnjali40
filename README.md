@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, AWS**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://kumarianjali40.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/KumariAnjali40/kumarianjali40.github.io](https://kumarianjali40.github.io/)
 
 - 💬 Ask me about **Node.js,DSA, MongoDb,MySql,JavaScript,GitHub**
 
