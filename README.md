@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarianjali40&label=Profile%20views&color=0e75b6&style=flat" alt="kumarianjali40" /> </p>
 
 
-- 🔭 I’m currently Learning **Advanced Node.js, AWS, CICD Pipeline**
+- 🔭 I’m currently working on **AWS three tier Achitecture and CICD Pipeline**
 
-- 🌱 Interested in **Backend Development**
+- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, Terraform**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/KumariAnjali40/KumariAnjali40.github.io)
 
