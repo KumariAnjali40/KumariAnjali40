@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarianjali40&label=Profile%20views&color=0e75b6&style=flat" alt="kumarianjali40" /> </p>
 
 
-- 🔭 I’m currently working on **AWS three tier Achitecture and CICD Pipeline**
+- 🔭 I’m currently working on **AWS three tier Achitecture and CICD Pipeline **
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, AWS**
 
