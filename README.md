@@ -81,13 +81,15 @@
 
 <div style=" display:flex;justify-content:space-evenly; flex-wrap:wrap; gap:30px; align-item:center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KumariAnjali40&theme=onedark&column=3&margin-w=15&margin-h=15">
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KumariAnjali40&theme=tokyonight&count_private=true)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumariAnjali40&layout=compact&theme=tokyonight)
 
  ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=KumariAnjali40&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+
+ ## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=KumariAnjali40&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
