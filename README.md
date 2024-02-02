@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarianjali40&label=Profile%20views&color=0e75b6&style=flat" alt="kumarianjali40" /> </p>
 
 
-- 🔭 I’m currently Learning **Advanced Node.js, AWS, Docker, CICD Pipeline**
+- 🔭 I’m currently Learning **Advanced Node.js, AWS, CICD Pipeline**
 
 - 🌱 Interested in **Backend Development**
 
