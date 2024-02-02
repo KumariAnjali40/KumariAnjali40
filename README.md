@@ -8,7 +8,7 @@
 
 - 🌱 Interested in **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KumariAnjali40/KumariAnjali40.github.io](https://github.com/KumariAnjali40/KumariAnjali40.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/KumariAnjali40/KumariAnjali40.github.io)
 
 - 💬 Ask me about **Node.js,DSA, MongoDb,MySql,JavaScript,GitHub**
 
