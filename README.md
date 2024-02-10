@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anjalipandey9051@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BqMiZdr2vo1qDzug-ZcfSYgeZb_dx4kG/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1XzfMozWcDKcuMrtwa5RdXxcnlyvDtLje)
 
 
 <h3 align="left">Connect with me:</h3>
