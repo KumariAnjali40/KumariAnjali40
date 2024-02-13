@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AWS three tier Achitecture and CICD Pipeline **
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, AWS**
+- 🌱 I’m currently learning **Docker, AWS**
 
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/KumariAnjali40?tab=repositories)
 
@@ -28,6 +28,10 @@
 <a href="https://www.leetcode.com/kumarianjali40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumarianjali40" height="30" width="40" /></a>
 </p>
 
+
+<br>
+<hr>
+
 <h3 align="left">Languages and Tools:</h3>
        <p align="left" style="margin-bottom: 20px;">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 20px;">
@@ -45,14 +49,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
   </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/>
-  </a>
+  
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
@@ -79,6 +78,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
   </a>
 </p>
+
+
+<br>
+<hr>
 
   ## Github Stats :
 
