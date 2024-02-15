@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Docker, AWS**
 
-- 👨‍💻 All of my projects are available at [Repository](https://github.com/KumariAnjali40?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/KumariAnjali40?tab=repositories)
 
 - 💬 Ask me about **Node.js,DSA, MongoDb,MySql,JavaScript,GitHub**
 
 - 📫 How to reach me **anjalipandey9051@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13qFr8fBMY48KZDvQZBrQOjF58Xa-ZnGo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1XzfMozWcDKcuMrtwa5RdXxcnlyvDtLje)
 
 
 <h3 align="left">Connect with me:</h3>
