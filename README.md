@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumari Anjali</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <img align="right" alt="Coding" width="300" style="border-radius: 50%;" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/KumariAnjali40?tab=repositories)
 
-- 💬 Ask me about **Node.js,DSA, MongoDb,MySql,JavaScript,GitHub**
+- 💬 Ask me about **Node.js,DSA, React.js, Next.js, MongoDb,MySql,JavaScript,GitHub,Kafka**
 
 - 📫 How to reach me **anjalipandey9051@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qtFi6wvASArSOsnLxIBZssiXZs2a0ral/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DkRJ8RsOFBDdif_rExwizwBlwqxS-yeR/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -85,7 +85,7 @@
 <div style=" display:flex;justify-content:space-evenly; flex-wrap:wrap; gap:30px; align-item:center">
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KumariAnjali40&theme=tokyonight&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=KumariAnjali40&theme=dark)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumariAnjali40&layout=compact&theme=tokyonight)
 
