@@ -85,7 +85,7 @@
 <div style=" display:flex;justify-content:space-evenly; flex-wrap:wrap; gap:30px; align-item:center">
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KumariAnjali40&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KumariAnjali40&theme=great-gatsby&hide_border=false)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumariAnjali40&layout=compact&theme=tokyonight)
 
