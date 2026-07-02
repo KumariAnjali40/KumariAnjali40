@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/KumariAnjali40?tab=repositories)
 
-- 💬 Ask me about **Node.js,DSA, React.js, Next.js, MongoDb,MySql,JavaScript,GitHub,Kafka**
+- 💬 Ask me about **Node.js,DSA, React.js, Next.js, MongoDb,MySql,JavaScript,GitHub,Kafka, AI/LLM**
 
 - 📫 How to reach me **anjalipandey9051@gmail.com**
 
@@ -87,9 +87,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KumariAnjali40&theme=great-gatsby&hide_border=false)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumariAnjali40&layout=compact&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KumariAnjali40&layout=compact&theme=tokyonight)
 
- ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=KumariAnjali40&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+ ![Anjali's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KumariAnjali40&show_icons=true&theme=tokyonight)
 
  ## 🏆 GitHub Trophies
 
